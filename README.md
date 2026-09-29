@@ -1,4 +1,4 @@
-# ESS Pricing Tracker
+# Pricing Tracker
 
 Weekly 5MWh battery energy storage (ESS) pack and cell prices — China, India, Europe and any region you add — in the layout of the SMM weekly pricing sheet, plus lithium carbonate, copper and crude oil updated automatically several times a day.
 
