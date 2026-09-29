@@ -2,7 +2,7 @@
 
 Weekly 5MWh battery energy storage (ESS) pack and cell prices — China, India, Europe and any region you add — in the layout of the SMM weekly pricing sheet, plus lithium carbonate, copper and crude oil updated automatically several times a day.
 
-**Live page:** https://eye-am-ashutosh.github.io/ess-dashboard/
+**Live page:** https://eye-am-ashutosh.github.io/Commodity-price-track/
 
 ## What it does
 
